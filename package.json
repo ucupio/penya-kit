@@ -1,0 +1,22 @@
+{
+  "name": "penya-kit",
+  "version": "1.0.0",
+  "description": "ultimate frondend helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \"\\belum ada test\"\\ && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucupio/penya-kit.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "ucupio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ucupio/penya-kit/issues"
+  },
+  "homepage": "https://github.com/ucupio/penya-kit#readme"
+}
