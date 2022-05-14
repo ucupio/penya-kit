@@ -1,7 +1,7 @@
 {
   "name": "penya-kit",
   "version": "1.0.0",
-  "description": "ultimate frondend helper",
+  "description": "ultimate backend helper",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
